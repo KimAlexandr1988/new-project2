@@ -5,5 +5,4 @@ for row in range(1, size + 1):
 		print(row, end=' ')
     
 	print()
-print('end')
 print ('Happy end')
