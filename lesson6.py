@@ -5,5 +5,5 @@ for row in range(1, size + 1):
 		print(row, end=' ')
     
 	print()
-print ('Happy end')
+print ('Happy ending')
 print ('Go to sleep')
