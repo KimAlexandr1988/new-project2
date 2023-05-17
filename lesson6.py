@@ -6,3 +6,4 @@ for row in range(1, size + 1):
     
 	print()
 print('end')
+print ('Happy end')
